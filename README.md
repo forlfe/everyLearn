@@ -11,7 +11,7 @@
 
 | Sort             | Name                                                                               |
 | ---------------- | --------------------------------------------------------------                     |
-| **_FrontEnd_**   | `HTML5` `CSS3` `JavaScript` `jQuery`  `Ajax` `Bootstrap`                           |
+| **_FrontEnd_**   | `HTML5` `CSS3` `JavaScript` `jQuery`  `Ajax`                          |
 | **_DB, Server_** | `Oracle` `Tomcat`                                                                  |
 | **_BackEnd_**    | `Java` `JSP` `MyBatis` `Spring`                                                    |
 | **_Etc Tools_**  | `GitHub` `Visual Studio Code` `Notion` `Sourcetree` `eclipse` `ERD cloud` `Figma`  |
