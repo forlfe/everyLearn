@@ -9,12 +9,12 @@
 
 ## ⚙STACK
 
-| Sort             | Name                                                                               |
-| ---------------- | --------------------------------------------------------------                     |
+| Sort             | Name                                                                  |
+| ---------------- | --------------------------------------------------------------        |
 | **_FrontEnd_**   | `HTML5` `CSS3` `JavaScript` `jQuery`  `Ajax`                          |
-| **_DB, Server_** | `Oracle` `Tomcat`                                                                  |
-| **_BackEnd_**    | `Java` `MyBatis` `Spring`                                                    |
-| **_Etc Tools_**  | `GitHub` `Visual Studio Code` `Notion` `Sourcetree` `eclipse` `ERD cloud` `Figma`  |
+| **_DB, Server_** | `Oracle` `Tomcat`                                                     |
+| **_BackEnd_**    | `Java` `MyBatis` `Spring`                                             |
+| **_Etc Tools_**  | `GitHub` `Notion` `Sourcetree` `ERD cloud` `Figma`                    |
 
 ## 주요기능
 
